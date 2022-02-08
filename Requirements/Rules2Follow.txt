@@ -1,0 +1,31 @@
+
+II. STYLE: Commenting (5 pts for having file header comment, function header comment above every function, and reasonable inline comments, 1 pts deduction for each missing, 0 pts for missing all comments)
+5 pts
+
+
+II. STYLE:  No global variables.  No heap allocation.   Meaningful variable names.  Deductions: -50 points for heap allocation or global variables; -10 pts for poor variable names;  
+0 pts
+
+
+II. STYLE: Function decomposition.  All functions should be reasonable short, < 30 lines, and CCN should be minimized.  Graders:  -10 points for each function longer than 30 lines; 
+0 pts
+
+
+II. STYLE: Only reads the file in exactly one time.  Deductions:  -25 pts each extra time a file is read (each file should only be read exactly once).  
+0 pts
+
+
+III.  Creative Component - submits a mine.people file; Check test case to see their mine.people in action. +3 pts for clear people theme; 
++2 pts for >5 people..  Deductions:  no points if the file is the same as one of the provided files; no points if there is no clear purpose to the 
+file (all have same scores, same names, use some default name like "person 1", etc.
+5 pts
+
+
+III.  Early Bonus - If your final submission is submitted before Wednesday, September 15th at 11:59 pm and passes all test cases, you will earn a 10% bonus on your final score.  
+In order to receive the early bonus: (1) your submission needs to pass 100% of the tests cases; (2) you may not have any submissions after the early bonus deadline.
+20 pts
+
+III.  Efficiency - Your code must be efficient with respect to space and time.  Deductions:  -10 pts anytime a second copy of data is stored in secondary container that is un-needed (extra copies of primitive types are ok); 
+-10 points for any code that performs linear search on a map.  Lookup should only occur through count, find, and square bracket operator.  
+If there is a loop iterating through a map, same deduction.  (note, they will have several loops that iterate through sets).  Check for any other inefficiencies not described here.
+0 pts

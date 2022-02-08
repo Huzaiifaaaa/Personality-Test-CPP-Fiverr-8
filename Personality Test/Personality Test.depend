@@ -1,0 +1,27 @@
+# depslib dependency file v1.0
+1643989463 source:c:\users\huzai\documents\github\personality-test-cpp-fiverr-8\personality test\main.cpp
+	<set>
+	<vector>
+	<map>
+	<fstream>
+	<sstream>
+	<string>
+	<iostream>
+	<fstream>
+	<math.h>
+	"driver.h"
+
+1643989433 c:\users\huzai\documents\github\personality-test-cpp-fiverr-8\personality test\driver.h
+	<math.h>
+	<limits>
+	<string>
+	<map>
+	<set>
+	"myrandom.h"
+
+1643468312 c:\users\huzai\documents\github\personality-test-cpp-fiverr-8\personality test\myrandom.h
+	<iostream>
+	<cstdlib>
+	<cmath>
+	<ctime>
+
